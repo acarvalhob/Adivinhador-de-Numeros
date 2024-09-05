@@ -9,4 +9,4 @@ function numberReveal() {
 
 ad = setInterval ( function() {
     alert('Mães solteiras a 500 metros de você. Clique para ver.')
-}, 10000)
+}, 5000)
